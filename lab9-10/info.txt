@@ -1,0 +1,6 @@
+project|task|employee|manager|start date|num of days
+Jija|Delete me|Vanya|Sanya|12/12/2000|3
+Jija|Format me|Tanya|Egor|14/08/2020|5
+FPS|Kill me|Roman|Tanya|20/12/2000|6
+Time|Retire me|Roman|Tanya|05/09/2020|21
+Nemesida|Eliminate all enemies|Vanya|Roman|06/10/2020|21
